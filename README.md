@@ -64,3 +64,29 @@ Run local web server
 php artisan serve
 ```
 
+### Image Screen shot
+
+Register Page
+
+![Register](img/register.png "Register")
+
+Login Page
+
+![Login Page](img/login.png "Login Page")
+
+Dashboard Page
+
+![Dashboard Page](img/dashboard.png "Dashboard Page")
+
+Profile Page
+
+![Profile Page](img/profile.png "Profile Page")
+
+File Manager Page
+
+![File Manager Page](img/file_manager.png "File Manager Page")
+
+Upload File
+
+![Upload File](img/upload.png "Upload File")
+
